@@ -1,1 +1,1 @@
-a Shell script that runs a Python script
+ Python hello world
