@@ -84,4 +84,3 @@ class Square(R):
                 }
 
         return dict_reper
-
